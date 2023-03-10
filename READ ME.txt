@@ -1,3 +1,5 @@
+Python Veri tipleri
+
 Sayılar (Numbers): Python'da üç farklı sayı veri tipi vardır: tam sayılar (integer), kayan noktalı sayılar (float) ve karmaşık sayılar (complex). Tam sayılar bütün sayıları ifade edebilirken, kayan noktalı sayılar kesirli sayıları ifade etmek için kullanılır ve karmaşık sayılar ise gerçek ve sanal sayıları içerir.
 
 Dizeler (Strings): Dizeler karakter dizilerini ifade eder. Bir dize, tek tırnak (' '), çift tırnak (" "), veya üçlü tırnak (''' ''') ile tanımlanabilir.
