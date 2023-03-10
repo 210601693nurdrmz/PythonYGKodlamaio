@@ -1,0 +1,13 @@
+Sayılar (Numbers): Python'da üç farklı sayı veri tipi vardır: tam sayılar (integer), kayan noktalı sayılar (float) ve karmaşık sayılar (complex). Tam sayılar bütün sayıları ifade edebilirken, kayan noktalı sayılar kesirli sayıları ifade etmek için kullanılır ve karmaşık sayılar ise gerçek ve sanal sayıları içerir.
+
+Dizeler (Strings): Dizeler karakter dizilerini ifade eder. Bir dize, tek tırnak (' '), çift tırnak (" "), veya üçlü tırnak (''' ''') ile tanımlanabilir.
+
+Listeler (Lists): Liste, sıralı öğelerin depolandığı bir veri tipidir. Listeler, farklı tipte öğeleri içerebilir ve değiştirilebilir (mutable) özelliktedir.
+
+Demetler (Tuples): Demet, sıralı öğelerin depolandığı bir veri tipidir. Demetler listelere benzer, ancak değiştirilemez (immutable) özelliktedir.
+
+Sözlükler (Dictionaries): Sözlük, anahtar-değer çiftlerini depolayan bir veri tipidir. Anahtarlar (keys) benzersiz ve değiştirilemez, değerler ise değiştirilebilir özelliktedir.
+
+Kümeler (Sets): Küme, benzersiz öğelerin depolandığı bir veri tipidir. Kümeler, matematiksel kümelerle benzer özelliklere sahiptir ve değiştirilebilir (mutable) özelliktedir.
+
+Bu veri tiplerinin hepsi farklı amaçlar için kullanılabilir ve Python programlama dilinin temelini oluştururlar.
